@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AUTOMOVILES</title>
+        <style>
+            body {
+                background-color: rgb(25, 150,15);
+            }   
+           .base_color_Title {
+               color:rgb(130, 28);
+           }
+           #Align {
+               text-align: center;
+           }
+           table, th, td {
+               border: 1px solid rgb(255, 251, 0);
+               border-collapse: collapse;
+               text-align: center;
+               background-color: rgb(114, 106, 106);
+           }
+           .contenedor {
+               display: flex;
+           }
+           .borde_contenedor {
+               border: 1px solid rgb(233, 11, 11);
+           }
+          </style> 
+    </head>
+    <body>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="left"><a href="menu.html">regresar al menu</a></p>
+<h1 id="Align" class="base_color_Title">VIDEO JUEGOS (NOVEDADES Y ALGUNOS DE SUS GENEROS)</h1>
+<div align="center"><img src="https://blog.explorerbyx.org/wp-content/uploads/2019/02/Géneros-videojuegos-768x965.png" width="500" height="500" /></div>
+<div align="center"><img src="https://pivigames.blog/wp-content/uploads/2021/12/Halo-Infinite-PiviGames.jpg" width="500" height="400" /></div>
+<p id="Align">Tras un proceso accidentado de desarrollo y un golpe de timón en la etapa final, Halo Infinite logró debutar en diciembre de 2021 y por la proximidad de fechas estuvo en el momento adecuado para celebrar los 20 años de la franquicia y de Xbox. La ocasión fue inigualable y es que el trabajo de 343 Industries rindió frutos tras el lanzamiento, complaciendo a quienes llegaron al juego por su modo campaña o por su multijugador y ahora los resultados han confirmado que se trata de un éxito.</p>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<th>GENEROS</th>
+<th>DESCRIPCI&Oacute;N</th>
+</tr>
+<tr>
+<td>SHOOTERS</td>
+<td>Los videojuegos de disparos, tiros o shooters' conforman un g&eacute;nero que engloba un amplio n&uacute;mero de subg&eacute;neros que tienen la caracter&iacute;stica com&uacute;n de permitir controlar un personaje que, por norma general, dispone de un arma que puede ser disparada a voluntad. Pertenecen al g&eacute;nero de acci&oacute;n.</td></tr>
+<tr>
+<td>CONDUCCION</td>
+<td>Un videojuego de carreras es un videojuego en el que se imitan competencias entre vehículos. Usualmente el objetivo es recorrer cierta distancia o ir de un sitio hacia otro en el menor tiempo posible, como en el automovilismo y el motociclismo (los que generalmente son imitados).</td>
+</tr>
+<tr>
+<td>AVENTURAS</td>
+<td>Los videojuegos de aventura son un género de videojuegos, caracterizados por la investigación, exploración, la solución de rompecabezas, la interacción con personajes del videojuego, y un enfoque en el relato en vez de desafíos basados en reflejos.</td>
+</tr>
+<tr>
+<td>TERROR</td>
+<td>Los videojuegos de terror, o videojuegos de horror, son un género de videojuegos centrado en la ficción a través de los elementos y las experiencias de terror, los cuales normalmente están diseñados para asustar al jugador a través de situaciones intimidantes, entornos tétricos, enemigos monstruosos y muy dañinos, además de sonidos, música e imágenes inquietantes para el jugador. A diferencia de la mayoría de los otros géneros de videojuegos, que se clasifican por su modo de juego, los videojuegos de terror casi siempre se basan en una presentación narrativa o visual y utilizan una gran variedad de tipos de jugabilidad.</td>
+</tr>
+<tr>
+<td>MMO</td>
+<td>Un videojuego multijugador masivo en línea o MMOG (siglas en inglés de massively multiplayer online game) es un videojuego en donde pueden participar, e interactuar en un mundo virtual, un gran número de jugadores del orden de cientos o miles simultáneamente (multijugador) conectados a través de la red (en línea), normalmente Internet dado el grado de concurrencia que pueden llegar a alcanzar y las características técnicas de los servidores que han de gestionar ese volumen de conexiones.</td>
+</tr>
+</tbody>
+</table>m
